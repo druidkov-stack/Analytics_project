@@ -10,7 +10,7 @@ from tqdm import tqdm
 import os
 import csv
 
-# 2. Проверка запроса от сайта
+# 2. Проверка запроса от сайта труд всем
 answer.status_code
 
 # 3. Просмотр полученного текста
